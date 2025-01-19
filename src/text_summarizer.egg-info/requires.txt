@@ -3,9 +3,8 @@ transformers[sentencepiece]
 transformers[torch]
 datasets
 sacrebleu
-streamlit 
 accelerate
-rouge_score 
+rouge_score
 py7zr
 pandas
 nltk
@@ -22,4 +21,3 @@ fastapi==0.78.0
 uvicorn==0.18.3
 Jinja2==3.1.2
 evaluate
-
